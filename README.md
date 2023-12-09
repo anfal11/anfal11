@@ -3,7 +3,7 @@
 
 - 👋 Hello World! I'm Anfal Ratul, a final-year Computer Science enthusiast at Daffodil International University in Dhaka, Bangladesh, ready to dive into the professional world of web development.
 
-- 🚀 Actively Seeking Opportunities: Actively exploring job opportunities, with a strong foundation in the MERN stack. Currently engaged in a dynamic Health and Wellness Tracker project, refining skills in MongoDB, Mongoose, Express.js, React.js, Next.js, Node.js, MySQL and PHP.
+- 🚀 Actively Seeking Opportunities: Actively exploring job opportunities, with a strong foundation in the MERN stack. Currently engaged in a Real Estate project, refining skills in MongoDB, Mongoose, Express.js, React.js, Next.js, Node.js, MySQL and PHP.
 
 - 🌟 Passion for Innovation: As graduation approaches, my goal is to leverage my expertise in web development to contribute to groundbreaking projects and collaborate with forward-thinking teams.
 
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on the Real Estate MERN STack Project. 
+- 🔭 I’m currently working on the Real Estate MERN Stack Project. 
 - 🌱 I’m currently learning Nextjs, Mongoose 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Frontend Development 
