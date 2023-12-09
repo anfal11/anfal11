@@ -1,16 +1,36 @@
-### Hi there 👋
+### Hi there 👋, I'm Tasin
+![](https://i.imgur.com/SQXDeat.jpg)
 
-<!--
-**anfal11/anfal11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 *Hello World!* I’m Md. Tasin Alam, a final-year Computer Science student at Daffodil International University in Dhaka, Bangladesh, ready to dive into the professional world of web development.
 
-Here are some ideas to get you started:
+- 🚀 *Actively Seeking Opportunities:* Currently exploring job opportunities, I've built a robust foundation in the MERN stack. Engaged in a dynamic Health and Wellness Tracker project, I'm sharpening my skills in MongoDB, Mongoose, Express.js, React.js, Next.js, and Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌟 *Passion for Innovation:* As graduation nears, my goal is to leverage my expertise in web development to contribute to groundbreaking projects and collaborate with forward-thinking teams.
+
+- 🎓 *MERN Stack Specialist:* Proficient in the MERN stack, I specialize in crafting immersive user experiences through clean and efficient JavaScript code.
+
+- 🚀 *Excited for the Future:* With excitement about the possibilities ahead, I’m open to exploring new opportunities and connecting with professionals in the tech community. Let’s collaborate and build something amazing together to shape the future of the web!
+
+*Skills:* <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,firebase,figma,nodejs,react,tailwind,canva" />
+  </a>
+</p>
+
+- 🔭 I’m currently working on a Health & Wellness Tracker Project 
+- 🌱 I’m currently learning Mongoose,Next.js 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about Web Development 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tasin007)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tasin007)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasin007)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tasin007&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Tasin007)
