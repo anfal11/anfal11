@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Anfal
-![](https://i.imgur.com/VGE57qY.png)
+![](https://i.ibb.co/vsfdj41/Black-Modern-Personal-Linked-In-Banner-1.png)
 
 - 👋 Hello World! I'm Anfal Ratul, a final-year Computer Science enthusiast at Daffodil International University in Dhaka, Bangladesh, ready to dive into the professional world of web development.
 
