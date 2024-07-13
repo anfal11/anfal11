@@ -1,13 +1,15 @@
 ### Hi there 👋, I am Anfal
 ![](https://i.ibb.co/vsfdj41/Black-Modern-Personal-Linked-In-Banner-1.png)
 
-- 👋 Hello World! I'm Anfal Ratul, a final-year Computer Science enthusiast at Daffodil International University in Dhaka, Bangladesh, ready to dive into the professional world of web development.
+- 👋 Hello World! I'm Anfal Ratul, a final-year Computer Science enthusiast at Daffodil International University in Dhaka, Bangladesh, ready to dive into the professional world of web development and DevOps.
 
-- 🚀 Actively Seeking Opportunities: Actively exploring job opportunities, with a strong foundation in the MERN stack. Currently engaged in a Real Estate project, refining skills in MongoDB, Mongoose, Express.js, React.js, Next.js, Node.js, MySQL and PHP.
+- 🚀 Actively Seeking Opportunities: Actively exploring job opportunities with a strong foundation in the MERN stack. Currently engaged in a Real Estate project, refining skills in MongoDB, Mongoose, Express.js, React.js, Next.js, Node.js, MySQL, PHP, Docker, Kubernetes, AWS, Prometheus-Grafana, Nginx, Jenkins, Maven, GitHub Actions and Terraform.
 
 - 🌟 Passion for Innovation: As graduation approaches, my goal is to leverage my expertise in web development to contribute to groundbreaking projects and collaborate with forward-thinking teams.
 
 - 🎓 MERN Stack Specialist: Proficient in the MERN stack, specializing in crafting immersive user experiences through clean and efficient JavaScript code.
+
+- 🎓 DevOps Specialist: Expert in DevOps with a strong focus on enhancing user experiences through efficient JavaScript code and robust server management. Proficient in CI/CD pipelines, automation, and infrastructure as code, ensuring seamless development and deployment processes.
 
 - 🚀 Excited for the Future: Fueled by enthusiasm for the possibilities ahead, I'm open to exploring new opportunities and connecting with professionals in the tech community. Let's collaborate and build something amazing together to shape the future of the web!
 
