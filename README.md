@@ -18,15 +18,15 @@
 
 *Skills:* <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,firebase,figma,nodejs,react,tailwind,canva" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,firebase,figma,nodejs,react,tailwind,canva,aws,docker,kubernetes,jenkins,maven,nginx,grafana,terraform" />
   </a>
 </p>
 
-- 🔭 I’m currently working on the Real Estate MERN Stack Project. 
-- 🌱 I’m currently learning Nextjs, Mongoose 
+- 🔭 I’m currently working in a Multinational company in the UK. 
+- 🌱 I’m currently learning DevOps tools. 
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Frontend Development 
-- 😄 Pronouns: Software Engineer 
+- 💬 Ask me about Frontend Development, Backend Development and DevOps tools.
+- 😄 Pronouns: Software Engineer (DevOps)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anfal11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anfal-bin-razzak-ratul-777572294//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/beastslayerfiend.12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anfal_ratul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/RatulAnfal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCQaFu6i6SJlybYw0F6UdcqQ)  
