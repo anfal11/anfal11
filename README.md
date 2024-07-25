@@ -18,7 +18,7 @@
 
 *Skills:* <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,firebase,figma,nodejs,react,tailwind,aws,docker,kubernetes,jenkins,maven,nginx,grafana,terraform" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,firebase,figma,nodejs,react,expressjs,PHP,laravel,tailwind,aws,docker,kubernetes,jenkins,maven,nginx,grafana,terraform" />
   </a>
 </p>
 
