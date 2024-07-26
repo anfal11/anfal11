@@ -16,6 +16,8 @@
 ### DevOps GitHub:- https://github.com/anfal03
 ### LeetCode:- https://leetcode.com/anfal_ratul/
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhskhan&label=Profile%20views&color=0e75b6&style=flat" alt="mhskhan" /> </p>
+
 *Skills:* <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,firebase,figma,nodejs,react,expressjs,laravel,tailwind,aws,docker,kubernetes,jenkins,maven,nginx,grafana,terraform" />
