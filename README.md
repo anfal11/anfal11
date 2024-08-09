@@ -24,7 +24,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working in a Multinational company in the UK. 
+- 🔭 I’m currently working in a Multinational company, Rosebay Tech Corporation (remote) in the UK. 
 - 🌱 I’m currently learning DevOps tools. 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Frontend Development, Backend Development and DevOps tools.
