@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Anfal
-![](https://i.ibb.co/jzY4zhk/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
+![](https://i.ibb.co.com/jzY4zhk/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 
 - 👋 Hello World! I'm Anfal Ratul, a Junior DevOps Engineer at a multinational company in the UK, and I am ready to dive into the professional world of DevOps.
 
