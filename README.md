@@ -1,13 +1,13 @@
 ### Hi there 👋, I am Anfal
 ![](https://i.ibb.co.com/jzY4zhk/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 
-- 👋 Hello World! I'm Anfal Ratul, a Junior DevOps Engineer at a multinational company in the UK, and I am ready to dive into the professional world of DevOps.
+- 👋 Hello World! I'm Anfal Bin Razzak Ratul, a DevOps Engineer at Nec Money Transfer Limited (Finnovate) and I am ready to dive into the professional world of DevOps.
 
-- 🚀 Actively Seeking Opportunities: Actively exploring job opportunities with a strong foundation in the MERN stack. Currently engaged in a Real Estate project, refining skills in MongoDB, Mongoose, Express.js, React.js, Next.js, Node.js, MySQL, PHP, Docker, Kubernetes, AWS, Prometheus-Grafana, Nginx, Jenkins, Maven, GitHub Actions and Terraform.
+- 🚀 Actively Seeking Opportunities: Actively exploring job opportunities with a strong foundation in DevOps. Currently engaged in Docker, Kubernetes, AWS, Prometheus-Grafana, Nginx, Jenkins, Maven, GitHub Actions and Terraform.
 
 - 🌟 Passion for Innovation: As graduation approaches, my goal is to leverage my expertise in web development to contribute to groundbreaking projects and collaborate with forward-thinking teams.
 
-- 🎓 MERN Stack Specialist: Proficient in the MERN stack, specializing in crafting immersive user experiences through clean and efficient JavaScript code.
+- 🎓 MERN Stack Specialist: Proficient in DevOps, specializing in crafting immersive user experiences through clean and efficient JavaScript code.
 
 - 🎓 DevOps Specialist: Expert in DevOps with a strong focus on enhancing user experiences through efficient JavaScript code and robust server management. Proficient in CI/CD pipelines, automation, and infrastructure as code, ensuring seamless development and deployment processes.
 
@@ -24,10 +24,10 @@
   </a>
 </p>
 
-- 🔭 I’m currently working in a Multinational company, Rosebay Tech Corporation (remote) in the UK. 
+- 🔭 I’m currently working at a company, Nec Money Transfer Limited (Finnovate), in Bansaree, Dhaka, Bangladesh. 
 - 🌱 I’m currently learning DevOps tools. 
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Frontend Development, Backend Development and DevOps tools.
+- 💬 Ask me about Frontend Development, Backend Development and DevOps.
 - 😄 Pronouns: Software Engineer (DevOps)
 
 
